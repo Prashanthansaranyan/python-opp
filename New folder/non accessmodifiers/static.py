@@ -1,5 +1,5 @@
 class A:
-    @abstractmethod
+    @staticmethod
     def getx(self):
         pass
         
