@@ -1,4 +1,5 @@
-from A,B import A,B
+from A import A
+from B import B
 class C(A, B):
     def __init__(self):
         A.__init__(self)  
